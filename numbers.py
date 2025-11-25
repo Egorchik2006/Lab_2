@@ -1,0 +1,6 @@
+number_1 = float(input("Enter a first number: "))
+number_2 = float(input("Enter second number: "))
+number_3 = float(input("Enter third number: "))
+number_4 = float(input("Enter fourth number: "))
+quotient = (number_1 + number_2) / (number_3 + number_4)
+print(f"Result is: {quotient:.2f}")
